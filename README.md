@@ -31,8 +31,8 @@ Complete Task 3: R programming in this orientation: https://github.com/statgenet
 
 hint: wget https://raw.githubusercontent.com/statgenetics/orientation/main/analysis/orientation.Rmd  to download the exercise file. Data is under the “Data” folder on the github orientation page.
 
+#### Report your results to is2632@cumc.columbia.edu
 
-
-Links tools:
+#### Links for the tools:
 * GATK:https://gatk.broadinstitute.org/hc/en-us
 * ANNOVAR:https://annovar.openbioinformatics.org/en/latest/
