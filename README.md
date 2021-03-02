@@ -33,3 +33,6 @@ hint: wget https://raw.githubusercontent.com/statgenetics/orientation/main/analy
 
 
 
+Links tools:
+* GATK:https://gatk.broadinstitute.org/hc/en-us
+* ANNOVAR:https://annovar.openbioinformatics.org/en/latest/
