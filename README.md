@@ -3,7 +3,7 @@
 To test your skills and knowledge in the context of Mendelian Genetics, please complete the 3 tasks below within the requested deadline.
 
 ### Task 1
-Current exome/sequencing variant calls are standardly output in variant call format (VCF) format. We provided you with a small VCF file (Test_annotate.vcf) and ask you to check out the features of this file and process it further. 
+Current exome/sequencing variant calls are standardly output in variant call format (VCF) format. We provided you with a small VCF file (Test_annotate.vcf - note this is in HG19) and ask you to check out the features of this file and process it further. 
 
 **Task 1a**: Use the provided Test_annotate.vcf to select only the SNPs using the Genomic Analysis Toolkit aka GATK (thus removing the INDELS). Provide us with the code you used to do this. 
 
